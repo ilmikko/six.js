@@ -1,0 +1,12 @@
+Array.prototype["false0"]="constructor";
+Array.prototype[0]=function(f){return String.fromCharCode(f);}
+
+console.log(
+
+(![]+[])[!![]+!![]]
++
+[][![]+[]+(+[])][+!![]]
++
+[][+[]](+!![]+[]+(+[])+(!![]+!![]+!![]))
+
+)
