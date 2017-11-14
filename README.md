@@ -8,12 +8,12 @@ Allowed Characters:
 	()
 
 ## FAQ
-* Why?
-- Why not?
+* Q: Why?
+- A: Why not?
 
-* No, seriously, why?
-- Well, it's a proof of concept. I think there are now tools online that can convert any piece of JavaScript code into this, there's a fancy name for it too but I can't remember it.
-- I watched the awesome presentation Wat on https://www.destroyallsoftware.com/talks/wat. The one thing that really struck me is that `true+true+true = 3`. That's where it all started from :)
+* Q: No, seriously, why?
+- A: Well, it's a proof of concept. I think there are now tools online that can convert any piece of JavaScript code into this, there's a fancy name for it too but I can't remember it.
+- A: I was inspired by the awesome presentation Wat on https://www.destroyallsoftware.com/talks/wat. The one thing that really struck me is that `true+true+true = 3`. That's where it all started from :)
 
 ## Theory
 	We can already represent all of the numbers.
